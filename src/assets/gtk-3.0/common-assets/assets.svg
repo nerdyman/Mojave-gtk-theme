@@ -11,17 +11,17 @@
    <stop stop-color="#545454" offset="1"/>
   </linearGradient>
   <linearGradient id="hightlight" osb:paint="solid">
-   <stop stop-color="#5887fc" offset="0"/>
+   <stop stop-color="#7b5adb" offset="0"/>
   </linearGradient>
   <linearGradient id="dark_checked_bg" osb:paint="gradient">
-   <stop stop-color="#3458c0" offset="0"/>
-   <stop stop-color="#3d67e3" offset="1"/>
+   <stop stop-color="#7a34c0" offset="0"/>
+   <stop stop-color="#903de3" offset="1"/>
   </linearGradient>
   <linearGradient id="selected_fg_color" osb:paint="solid">
    <stop stop-color="#ffffffgit" offset="0"/>
   </linearGradient>
   <linearGradient id="selected_bg_color" osb:paint="solid">
-   <stop stop-color="#5683fa" offset="0"/>
+   <stop stop-color="#a256fa" offset="0"/>
   </linearGradient>
   <filter id="bq" color-interpolation-filters="sRGB">
    <feFlood flood-color="rgb(0,0,0)" flood-opacity=".35294" result="flood"/>
@@ -122,8 +122,8 @@
   <linearGradient id="bc" x1="212.26" x2="230.26" y1="-108.14" y2="-108.14" gradientUnits="userSpaceOnUse" xlink:href="#selected_fg_color"/>
   <linearGradient id="bb" x1="466" x2="498" y1="199.36" y2="199.36" gradientUnits="userSpaceOnUse" xlink:href="#selected_fg_color"/>
   <linearGradient id="x" x1="92" x2="92" y1="-195.64" y2="-223.64" gradientTransform="translate(0 1)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#3d6ffc" offset="0"/>
-   <stop stop-color="#7ba3f7" offset="1"/>
+   <stop stop-color="#9c3dfc" offset="0"/>
+   <stop stop-color="#c37bf7" offset="1"/>
   </linearGradient>
   <linearGradient id="i" x1="-9.3622" x2="-7.3622" y1="143" y2="143" gradientUnits="userSpaceOnUse" xlink:href="#theme_darker_color"/>
   <linearGradient id="h" x1="122" x2="126" y1="8.3622" y2="8.3622" gradientUnits="userSpaceOnUse" xlink:href="#theme_darker_color"/>
@@ -140,23 +140,23 @@
    <stop stop-color="#696969" offset="1"/>
   </linearGradient>
   <linearGradient id="ab" x1="15" x2="15" y1="1050.4" y2="1034.4" gradientTransform="translate(14.787 .11552)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#004bdb" offset="0"/>
-   <stop stop-color="#498dd5" offset="1"/>
+   <stop stop-color="#8000db" offset="0"/>
+   <stop stop-color="#7349d5" offset="1"/>
   </linearGradient>
   <linearGradient id="z" x1="19" x2="19" y1="1050.4" y2="1034.4" gradientTransform="translate(14.787 .11552)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2100db" offset="0"/>
-   <stop stop-color="#277bd6" offset="1"/>
+   <stop stop-color="#6e00db" offset="0"/>
+   <stop stop-color="#7e27d6" offset="1"/>
   </linearGradient>
   <filter id="bl" x="-.035893" y="-.036107" width="1.0718" height="1.0722" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.21888099"/>
   </filter>
   <linearGradient id="aa" x1="15" x2="15" y1="1050.4" y2="1034.4" gradientTransform="translate(14.787 .11552)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#005cd4" offset="0"/>
-   <stop stop-color="#6fb3ff" offset="1"/>
+   <stop stop-color="#8d00d4" offset="0"/>
+   <stop stop-color="#be6fff" offset="1"/>
   </linearGradient>
   <linearGradient id="y" x1="19" x2="19" y1="1050.4" y2="1034.4" gradientTransform="translate(14.787 .11552)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#00429b" offset="0"/>
-   <stop stop-color="#499aff" offset="1"/>
+   <stop stop-color="#6f009b" offset="0"/>
+   <stop stop-color="#ad49ff" offset="1"/>
   </linearGradient>
   <filter id="bk" x="-.035893" y="-.036107" width="1.0718" height="1.0722" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.21888099"/>
@@ -919,7 +919,7 @@
    <g transform="translate(-5.1852 -.59123)">
     <g transform="matrix(1.011 0 0 .96971 -.43462 32.056)">
      <path d="m15.787 1034.5h29c4.432 0 8 3.568 8 8s-3.568 8-8 8h-29c-4.432 0-8-3.568-8-8s3.568-8 8-8z" fill="url(#ab)" stroke="url(#z)" stroke-width=".5"/>
-     <ellipse transform="matrix(1.0074 0 0 1.0074 14.206 -7.5824)" cx="30.144" cy="1042.7" rx="7.3177" ry="7.2744" fill="#00429b" filter="url(#bl)"/>
+     <ellipse transform="matrix(1.0074 0 0 1.0074 14.206 -7.5824)" cx="30.144" cy="1042.7" rx="7.3177" ry="7.2744" fill="#6f009b" filter="url(#bl)"/>
      <circle cx="44.787" cy="1042.5" r="7" fill="#fff"/>
     </g>
    </g>
@@ -929,7 +929,7 @@
     <g transform="translate(-5.1852 -.59123)">
      <g transform="matrix(1.011 0 0 .96971 -.43462 32.056)">
       <path d="m15.787 1034.5h29c4.432 0 8 3.568 8 8s-3.568 8-8 8h-29c-4.432 0-8-3.568-8-8s3.568-8 8-8z" fill="url(#aa)" stroke="url(#y)" stroke-width=".5"/>
-      <ellipse transform="matrix(1.0074 0 0 1.0074 14.206 -7.5824)" cx="30.144" cy="1042.7" rx="7.3177" ry="7.2744" fill="#00429b" filter="url(#bk)"/>
+      <ellipse transform="matrix(1.0074 0 0 1.0074 14.206 -7.5824)" cx="30.144" cy="1042.7" rx="7.3177" ry="7.2744" fill="#6f009b" filter="url(#bk)"/>
       <circle cx="44.787" cy="1042.5" r="7" fill="#fff"/>
      </g>
     </g>
@@ -946,7 +946,7 @@
   </g>
   <g id="entry-focus-dark" transform="translate(-38 194)" fill-rule="evenodd">
    <path transform="translate(-8 -279.64)" d="m427 34c-3.878 0-7 3.122-7 7v22c0 3.878 3.122 7 7 7h82c3.878 0 7-3.122 7-7v-22c0-3.878-3.122-7-7-7zm0 3h82c2.216 0 4 1.784 4 4v22c0 2.216-1.784 4-4 4h-82c-2.216 0-4-1.784-4-4v-22c0-2.216 1.784-4 4-4z" fill="#6887cd" opacity=".75" style="paint-order:fill markers stroke"/>
-   <path transform="translate(-8 -279.64)" d="m427 36c-2.77 0-5 2.23-5 5v22c0 2.77 2.23 5 5 5h82c2.77 0 5-2.23 5-5v-22c0-2.77-2.23-5-5-5zm0 1h82c2.216 0 4 1.784 4 4v22c0 2.216-1.784 4-4 4h-82c-2.216 0-4-1.784-4-4v-22c0-2.216 1.784-4 4-4z" fill="#5683fa" style="paint-order:fill markers stroke"/>
+   <path transform="translate(-8 -279.64)" d="m427 36c-2.77 0-5 2.23-5 5v22c0 2.77 2.23 5 5 5h82c2.77 0 5-2.23 5-5v-22c0-2.77-2.23-5-5-5zm0 1h82c2.216 0 4 1.784 4 4v22c0 2.216-1.784 4-4 4h-82c-2.216 0-4-1.784-4-4v-22c0-2.216 1.784-4 4-4z" fill="#a256fa" style="paint-order:fill markers stroke"/>
   </g>
   <g id="entry-dark" transform="translate(-37 193)">
    <rect x="412" y="-285.64" width="96" height="36" rx="0" ry="0" opacity="0" stroke-width="6" style="paint-order:fill markers stroke"/>

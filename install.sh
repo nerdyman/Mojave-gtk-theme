@@ -15,7 +15,7 @@ else
   DEST_DIR="$HOME/.themes"
 fi
 
-THEME_NAME=Mojave
+THEME_NAME=MojavePurp
 COLOR_VARIANTS=('-light' '-dark')
 OPACITY_VARIANTS=('' '-solid')
 ALT_VARIANTS=('' '-alt')
